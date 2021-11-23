@@ -1,0 +1,3 @@
+[submodule ".contents"]
+	path = .contents
+	url = https://github.com/aoirint/diary.aoirint.com-contents.git
