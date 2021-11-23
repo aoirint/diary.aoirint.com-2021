@@ -102,4 +102,9 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: 'git'
+  repo: https://github.com/aoirint/diary.aoirint.com.git
+  branch: gh-pages
+  name: aoirint
+  email: aoirint+autocommit@gmail.com
+
